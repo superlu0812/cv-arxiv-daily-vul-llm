@@ -26,3 +26,5 @@ keywords:
         filters: ["Code Vulnerability Detection LLM", "Vulnerability Detection LLM"]
     "LLMVulData":
         filters: ["Code Vulnerability Detection data LLM"]
+    "VulDetect":
+        filters: ["Vulnerability Detect"]
