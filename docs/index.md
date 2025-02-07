@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2025.02.05
+## Updated on 2025.02.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## VulDetect
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-30**|**Evaluating Large Language Models in Vulnerability Detection Under Variable Context Windows**|Jie Lin et.al.|[2502.00064](http://arxiv.org/abs/2502.00064)|null|
 |**2025-01-29**|**Fine-Grained 1-Day Vulnerability Detection in Binaries via Patch Code Localization**|Chaopeng Dong et.al.|[2501.17413](http://arxiv.org/abs/2501.17413)|null|
 |**2025-01-27**|**MoEVD: Enhancing Vulnerability Detection by Mixture-of-Experts (MoE)**|Xu Yang et.al.|[2501.16454](http://arxiv.org/abs/2501.16454)|null|
 |**2025-02-03**|**Are We Learning the Right Features? A Framework for Evaluating DL-Based Software Vulnerability Detection Solutions**|Satyaki Das et.al.|[2501.13291](http://arxiv.org/abs/2501.13291)|null|
