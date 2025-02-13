@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2025.02.11
+## Updated on 2025.02.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## VulDetect
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-10**|**Large Language Models in Software Security: A Survey of Vulnerability Detection Techniques and Insights**|Ze Sheng et.al.|[2502.07049](http://arxiv.org/abs/2502.07049)|null|
+|**2025-02-09**|**Large Language Models for In-File Vulnerability Localization Can Be "Lost in the End"**|Francesco Sovrano et.al.|[2502.06898](http://arxiv.org/abs/2502.06898)|null|
 |**2025-01-30**|**Evaluating Large Language Models in Vulnerability Detection Under Variable Context Windows**|Jie Lin et.al.|[2502.00064](http://arxiv.org/abs/2502.00064)|null|
 |**2025-01-29**|**Fine-Grained 1-Day Vulnerability Detection in Binaries via Patch Code Localization**|Chaopeng Dong et.al.|[2501.17413](http://arxiv.org/abs/2501.17413)|null|
 |**2025-01-27**|**MoEVD: Enhancing Vulnerability Detection by Mixture-of-Experts (MoE)**|Xu Yang et.al.|[2501.16454](http://arxiv.org/abs/2501.16454)|null|

@@ -1,4 +1,4 @@
-## Updated on 2025.02.11
+## Updated on 2025.02.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -12,6 +12,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-10**|**Large Language Models in Software Security: A Survey of Vulnerability Detection Techniques and Insights**|Ze Sheng et.al.|[2502.07049](http://arxiv.org/abs/2502.07049)|null|
+|**2025-02-09**|**Large Language Models for In-File Vulnerability Localization Can Be "Lost in the End"**|Francesco Sovrano et.al.|[2502.06898](http://arxiv.org/abs/2502.06898)|null|
 |**2025-01-30**|**Evaluating Large Language Models in Vulnerability Detection Under Variable Context Windows**|Jie Lin et.al.|[2502.00064](http://arxiv.org/abs/2502.00064)|null|
 |**2025-01-29**|**Fine-Grained 1-Day Vulnerability Detection in Binaries via Patch Code Localization**|Chaopeng Dong et.al.|[2501.17413](http://arxiv.org/abs/2501.17413)|null|
 |**2025-01-27**|**MoEVD: Enhancing Vulnerability Detection by Mixture-of-Experts (MoE)**|Xu Yang et.al.|[2501.16454](http://arxiv.org/abs/2501.16454)|null|
@@ -66,7 +68,7 @@
 |**2024-10-08**|**StagedVulBERT: Multi-Granular Vulnerability Detection with a Novel Pre-trained Code Model**|Yuan Jiang et.al.|[2410.05766](http://arxiv.org/abs/2410.05766)|null|
 |**2024-10-04**|**Vulnerability Detection via Topological Analysis of Attention Maps**|Pavel Snopov et.al.|[2410.03470](http://arxiv.org/abs/2410.03470)|**[link](https://github.com/Snopoff/Vulnerability-Detection-via-Topological-Analysis-of-Attention-Maps)**|
 
-<p align=right>(<a href=#updated-on-20250211>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250213>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
