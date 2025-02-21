@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2025.02.19
+## Updated on 2025.02.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## VulDetect
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-17**|**SmartLLM: Smart Contract Auditing using Custom Generative AI**|Jun Kevin et.al.|[2502.13167](http://arxiv.org/abs/2502.13167)|null|
+|**2025-02-20**|**A Survey of Fuzzing Open-Source Operating Systems**|Kun Hu et.al.|[2502.13163](http://arxiv.org/abs/2502.13163)|null|
 |**2025-02-12**|**LLMs in Software Security: A Survey of Vulnerability Detection Techniques and Insights**|Ze Sheng et.al.|[2502.07049](http://arxiv.org/abs/2502.07049)|null|
 |**2025-02-09**|**Large Language Models for In-File Vulnerability Localization Can Be "Lost in the End"**|Francesco Sovrano et.al.|[2502.06898](http://arxiv.org/abs/2502.06898)|null|
 |**2025-01-30**|**Evaluating Large Language Models in Vulnerability Detection Under Variable Context Windows**|Jie Lin et.al.|[2502.00064](http://arxiv.org/abs/2502.00064)|null|
