@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2025.02.25
+## Updated on 2025.02.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## VulDetect
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-24**|**MTVHunter: Smart Contracts Vulnerability Detection Based on Multi-Teacher Knowledge Translation**|Guokai Sun et.al.|[2502.16955](http://arxiv.org/abs/2502.16955)|null|
 |**2025-02-17**|**SmartLLM: Smart Contract Auditing using Custom Generative AI**|Jun Kevin et.al.|[2502.13167](http://arxiv.org/abs/2502.13167)|null|
 |**2025-02-20**|**A Survey of Fuzzing Open-Source Operating Systems**|Kun Hu et.al.|[2502.13163](http://arxiv.org/abs/2502.13163)|**[link](https://github.com/pghk13/survey-osf)**|
 |**2025-02-12**|**LLMs in Software Security: A Survey of Vulnerability Detection Techniques and Insights**|Ze Sheng et.al.|[2502.07049](http://arxiv.org/abs/2502.07049)|null|
