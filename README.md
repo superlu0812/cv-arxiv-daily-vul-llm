@@ -1,4 +1,4 @@
-## Updated on 2025.03.05
+## Updated on 2025.03.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -12,6 +12,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-05**|**Benchmarking LLMs and LLM-based Agents in Practical Vulnerability Detection for Code Repositories**|Alperen Yildiz et.al.|[2503.03586](http://arxiv.org/abs/2503.03586)|null|
+|**2025-03-03**|**Benchmarking Large Language Models for Multi-Language Software Vulnerability Detection**|Ting Zhang et.al.|[2503.01449](http://arxiv.org/abs/2503.01449)|null|
 |**2025-02-22**|**A Multi-Agent Framework for Automated Vulnerability Detection and Repair in Solidity and Move Smart Contracts**|Rabimba Karanjai et.al.|[2502.18515](http://arxiv.org/abs/2502.18515)|null|
 |**2025-02-24**|**MTVHunter: Smart Contracts Vulnerability Detection Based on Multi-Teacher Knowledge Translation**|Guokai Sun et.al.|[2502.16955](http://arxiv.org/abs/2502.16955)|**[link](https://github.com/KD-SCVD/MTVHunter)**|
 |**2025-02-17**|**SmartLLM: Smart Contract Auditing using Custom Generative AI**|Jun Kevin et.al.|[2502.13167](http://arxiv.org/abs/2502.13167)|null|
@@ -72,7 +74,7 @@
 |**2024-10-08**|**StagedVulBERT: Multi-Granular Vulnerability Detection with a Novel Pre-trained Code Model**|Yuan Jiang et.al.|[2410.05766](http://arxiv.org/abs/2410.05766)|null|
 |**2024-10-04**|**Vulnerability Detection via Topological Analysis of Attention Maps**|Pavel Snopov et.al.|[2410.03470](http://arxiv.org/abs/2410.03470)|**[link](https://github.com/Snopoff/Vulnerability-Detection-via-Topological-Analysis-of-Attention-Maps)**|
 
-<p align=right>(<a href=#updated-on-20250305>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250307>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
