@@ -2,13 +2,16 @@
 layout: default
 ---
 
-## Updated on 2025.03.11
+## Updated on 2025.03.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## VulDetect
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-10**|**Evaluating LLaMA 3.2 for Software Vulnerability Detection**|José Gonçalves et.al.|[2503.07770](http://arxiv.org/abs/2503.07770)|null|
+|**2025-03-10**|**Control Flow-Augmented Decompiler based on Large Language Model**|Peipei Liu et.al.|[2503.07215](http://arxiv.org/abs/2503.07215)|null|
+|**2025-03-09**|**R+R: Security Vulnerability Dataset Quality Is Critical**|Anurag Swarnim Yadav et.al.|[2503.06387](http://arxiv.org/abs/2503.06387)|null|
 |**2025-03-06**|**Deep Learning Aided Software Vulnerability Detection: A Survey**|Md Nizam Uddin et.al.|[2503.04002](http://arxiv.org/abs/2503.04002)|null|
 |**2025-03-05**|**Benchmarking LLMs and LLM-based Agents in Practical Vulnerability Detection for Code Repositories**|Alperen Yildiz et.al.|[2503.03586](http://arxiv.org/abs/2503.03586)|null|
 |**2025-03-03**|**Benchmarking Large Language Models for Multi-Language Software Vulnerability Detection**|Ting Zhang et.al.|[2503.01449](http://arxiv.org/abs/2503.01449)|null|

@@ -1,4 +1,4 @@
-## Updated on 2025.03.11
+## Updated on 2025.03.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -12,6 +12,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-10**|**Evaluating LLaMA 3.2 for Software Vulnerability Detection**|José Gonçalves et.al.|[2503.07770](http://arxiv.org/abs/2503.07770)|null|
+|**2025-03-10**|**Control Flow-Augmented Decompiler based on Large Language Model**|Peipei Liu et.al.|[2503.07215](http://arxiv.org/abs/2503.07215)|null|
+|**2025-03-09**|**R+R: Security Vulnerability Dataset Quality Is Critical**|Anurag Swarnim Yadav et.al.|[2503.06387](http://arxiv.org/abs/2503.06387)|null|
 |**2025-03-06**|**Deep Learning Aided Software Vulnerability Detection: A Survey**|Md Nizam Uddin et.al.|[2503.04002](http://arxiv.org/abs/2503.04002)|null|
 |**2025-03-05**|**Benchmarking LLMs and LLM-based Agents in Practical Vulnerability Detection for Code Repositories**|Alperen Yildiz et.al.|[2503.03586](http://arxiv.org/abs/2503.03586)|null|
 |**2025-03-03**|**Benchmarking Large Language Models for Multi-Language Software Vulnerability Detection**|Ting Zhang et.al.|[2503.01449](http://arxiv.org/abs/2503.01449)|null|
@@ -75,7 +78,7 @@
 |**2024-10-08**|**StagedVulBERT: Multi-Granular Vulnerability Detection with a Novel Pre-trained Code Model**|Yuan Jiang et.al.|[2410.05766](http://arxiv.org/abs/2410.05766)|null|
 |**2024-10-04**|**Vulnerability Detection via Topological Analysis of Attention Maps**|Pavel Snopov et.al.|[2410.03470](http://arxiv.org/abs/2410.03470)|**[link](https://github.com/Snopoff/Vulnerability-Detection-via-Topological-Analysis-of-Attention-Maps)**|
 
-<p align=right>(<a href=#updated-on-20250311>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250313>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
