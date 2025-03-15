@@ -1,4 +1,4 @@
-## Updated on 2025.03.13
+## Updated on 2025.03.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -12,9 +12,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-12**|**CASTLE: Benchmarking Dataset for Static Code Analyzers and LLMs towards CWE Detection**|Richard A. Dubniczky et.al.|[2503.09433](http://arxiv.org/abs/2503.09433)|null|
 |**2025-03-10**|**Evaluating LLaMA 3.2 for Software Vulnerability Detection**|José Gonçalves et.al.|[2503.07770](http://arxiv.org/abs/2503.07770)|null|
 |**2025-03-10**|**Control Flow-Augmented Decompiler based on Large Language Model**|Peipei Liu et.al.|[2503.07215](http://arxiv.org/abs/2503.07215)|null|
-|**2025-03-09**|**R+R: Security Vulnerability Dataset Quality Is Critical**|Anurag Swarnim Yadav et.al.|[2503.06387](http://arxiv.org/abs/2503.06387)|null|
+|**2025-03-09**|**R+R: Security Vulnerability Dataset Quality Is Critical**|Anurag Swarnim Yadav et.al.|[2503.06387](http://arxiv.org/abs/2503.06387)|**[link](https://github.com/Anurag-Swarnim-Yadav/DatasetQuality)**|
 |**2025-03-06**|**Deep Learning Aided Software Vulnerability Detection: A Survey**|Md Nizam Uddin et.al.|[2503.04002](http://arxiv.org/abs/2503.04002)|null|
 |**2025-03-05**|**Benchmarking LLMs and LLM-based Agents in Practical Vulnerability Detection for Code Repositories**|Alperen Yildiz et.al.|[2503.03586](http://arxiv.org/abs/2503.03586)|null|
 |**2025-03-03**|**Benchmarking Large Language Models for Multi-Language Software Vulnerability Detection**|Ting Zhang et.al.|[2503.01449](http://arxiv.org/abs/2503.01449)|null|
@@ -53,7 +54,7 @@
 |**2024-12-02**|**Smart Contract Vulnerabilities, Tools, and Benchmarks: An Updated Systematic Literature Review**|Gerardo Iuliano et.al.|[2412.01719](http://arxiv.org/abs/2412.01719)|null|
 |**2024-11-29**|**Enhanced LLM-Based Framework for Predicting Null Pointer Dereference in Source Code**|Md. Fahim Sultan et.al.|[2412.00216](http://arxiv.org/abs/2412.00216)|null|
 |**2024-11-28**|**SmartLLMSentry: A Comprehensive LLM Based Smart Contract Vulnerability Detection Framework**|Oualid Zaazaa et.al.|[2411.19234](http://arxiv.org/abs/2411.19234)|null|
-|**2025-01-16**|**CleanVul: Automatic Function-Level Vulnerability Detection in Code Commits Using LLM Heuristics**|Yikun Li et.al.|[2411.17274](http://arxiv.org/abs/2411.17274)|**[link](https://github.com/yikun-li/cleanvul)**|
+|**2025-03-13**|**CleanVul: Automatic Function-Level Vulnerability Detection in Code Commits Using LLM Heuristics**|Yikun Li et.al.|[2411.17274](http://arxiv.org/abs/2411.17274)|**[link](https://github.com/yikun-li/cleanvul)**|
 |**2024-11-25**|**EnStack: An Ensemble Stacking Framework of Large Language Models for Enhanced Vulnerability Detection in Source Code**|Shahriyar Zaman Ridoy et.al.|[2411.16561](http://arxiv.org/abs/2411.16561)|null|
 |**2024-11-25**|**An Empirical Study of Vulnerability Detection using Federated Learning**|Peiheng Zhou et.al.|[2411.16099](http://arxiv.org/abs/2411.16099)|null|
 |**2024-11-28**|**OSPtrack: A Labeled Dataset Targeting Simulated Execution of Open-Source Software**|Zhuoran Tan et.al.|[2411.14829](http://arxiv.org/abs/2411.14829)|null|
@@ -78,7 +79,7 @@
 |**2024-10-08**|**StagedVulBERT: Multi-Granular Vulnerability Detection with a Novel Pre-trained Code Model**|Yuan Jiang et.al.|[2410.05766](http://arxiv.org/abs/2410.05766)|null|
 |**2024-10-04**|**Vulnerability Detection via Topological Analysis of Attention Maps**|Pavel Snopov et.al.|[2410.03470](http://arxiv.org/abs/2410.03470)|**[link](https://github.com/Snopoff/Vulnerability-Detection-via-Topological-Analysis-of-Attention-Maps)**|
 
-<p align=right>(<a href=#updated-on-20250313>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250315>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
