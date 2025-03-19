@@ -2,19 +2,22 @@
 layout: default
 ---
 
-## Updated on 2025.03.17
+## Updated on 2025.03.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## VulDetect
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-16**|**Computing Modes of Instability of Parameterized Nonlinear Systems for Vulnerability Assessment**|Jinghan Wang et.al.|[2503.12298](http://arxiv.org/abs/2503.12298)|null|
+|**2025-03-13**|**HALURust: Exploiting Hallucinations of Large Language Models to Detect Vulnerabilities in Rust**|Yu Luo et.al.|[2503.10793](http://arxiv.org/abs/2503.10793)|null|
+|**2025-03-13**|**Vulnerability Detection: From Formal Verification to Large Language Models and Hybrid Approaches: A Comprehensive Overview**|Norbert Tihanyi et.al.|[2503.10784](http://arxiv.org/abs/2503.10784)|null|
 |**2025-03-12**|**CASTLE: Benchmarking Dataset for Static Code Analyzers and LLMs towards CWE Detection**|Richard A. Dubniczky et.al.|[2503.09433](http://arxiv.org/abs/2503.09433)|null|
 |**2025-03-10**|**Evaluating LLaMA 3.2 for Software Vulnerability Detection**|José Gonçalves et.al.|[2503.07770](http://arxiv.org/abs/2503.07770)|null|
 |**2025-03-10**|**Control Flow-Augmented Decompiler based on Large Language Model**|Peipei Liu et.al.|[2503.07215](http://arxiv.org/abs/2503.07215)|null|
 |**2025-03-09**|**R+R: Security Vulnerability Dataset Quality Is Critical**|Anurag Swarnim Yadav et.al.|[2503.06387](http://arxiv.org/abs/2503.06387)|**[link](https://github.com/Anurag-Swarnim-Yadav/DatasetQuality)**|
 |**2025-03-06**|**Deep Learning Aided Software Vulnerability Detection: A Survey**|Md Nizam Uddin et.al.|[2503.04002](http://arxiv.org/abs/2503.04002)|null|
-|**2025-03-05**|**Benchmarking LLMs and LLM-based Agents in Practical Vulnerability Detection for Code Repositories**|Alperen Yildiz et.al.|[2503.03586](http://arxiv.org/abs/2503.03586)|null|
+|**2025-03-18**|**Benchmarking LLMs and LLM-based Agents in Practical Vulnerability Detection for Code Repositories**|Alperen Yildiz et.al.|[2503.03586](http://arxiv.org/abs/2503.03586)|null|
 |**2025-03-03**|**Benchmarking Large Language Models for Multi-Language Software Vulnerability Detection**|Ting Zhang et.al.|[2503.01449](http://arxiv.org/abs/2503.01449)|null|
 |**2025-02-22**|**A Multi-Agent Framework for Automated Vulnerability Detection and Repair in Solidity and Move Smart Contracts**|Rabimba Karanjai et.al.|[2502.18515](http://arxiv.org/abs/2502.18515)|null|
 |**2025-02-24**|**MTVHunter: Smart Contracts Vulnerability Detection Based on Multi-Teacher Knowledge Translation**|Guokai Sun et.al.|[2502.16955](http://arxiv.org/abs/2502.16955)|**[link](https://github.com/KD-SCVD/MTVHunter)**|
