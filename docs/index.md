@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2025.03.25
+## Updated on 2025.03.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## VulDetect
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-23**|**Enhancing Software Vulnerability Detection Using Code Property Graphs and Convolutional Neural Networks**|Amanpreet Singh Saimbhi et.al.|[2503.18175](http://arxiv.org/abs/2503.18175)|null|
+|**2025-03-22**|**Reasoning with LLMs for Zero-Shot Vulnerability Detection**|Arastoo Zibaeirad et.al.|[2503.17885](http://arxiv.org/abs/2503.17885)|null|
 |**2025-03-19**|**UntrustVul: An Automated Approach for Identifying Untrustworthy Alerts in Vulnerability Detection Models**|Lam Nguyen Tung et.al.|[2503.14852](http://arxiv.org/abs/2503.14852)|null|
 |**2025-03-16**|**Computing Modes of Instability of Parameterized Nonlinear Systems for Vulnerability Assessment**|Jinghan Wang et.al.|[2503.12298](http://arxiv.org/abs/2503.12298)|null|
 |**2025-03-13**|**HALURust: Exploiting Hallucinations of Large Language Models to Detect Vulnerabilities in Rust**|Yu Luo et.al.|[2503.10793](http://arxiv.org/abs/2503.10793)|null|
