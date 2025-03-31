@@ -60,7 +60,7 @@ layout: default
 |**2025-03-13**|**CleanVul: Automatic Function-Level Vulnerability Detection in Code Commits Using LLM Heuristics**|Yikun Li et.al.|[2411.17274](http://arxiv.org/abs/2411.17274)|**[link](https://github.com/yikun-li/cleanvul)**|
 |**2024-11-25**|**EnStack: An Ensemble Stacking Framework of Large Language Models for Enhanced Vulnerability Detection in Source Code**|Shahriyar Zaman Ridoy et.al.|[2411.16561](http://arxiv.org/abs/2411.16561)|null|
 |**2024-11-25**|**An Empirical Study of Vulnerability Detection using Federated Learning**|Peiheng Zhou et.al.|[2411.16099](http://arxiv.org/abs/2411.16099)|null|
-|**2024-11-28**|**OSPtrack: A Labeled Dataset Targeting Simulated Execution of Open-Source Software**|Zhuoran Tan et.al.|[2411.14829](http://arxiv.org/abs/2411.14829)|null|
+|**2024-11-28**|**OSPtrack: A Labeled Dataset Targeting Simulated Execution of Open-Source Software**|Zhuoran Tan et.al.|[2411.14829](http://arxiv.org/abs/2411.14829)|**[link](https://github.com/Wapiti08/OSPTrack)**|
 |**2024-11-20**|**CryptoFormalEval: Integrating LLMs and Formal Verification for Automated Cryptographic Protocol Vulnerability Detection**|Cristian Curaba et.al.|[2411.13627](http://arxiv.org/abs/2411.13627)|**[link](https://github.com/cristian-curaba/cryptoformaleval)**|
 |**2024-11-17**|**Forecasting the risk of software choices: A model to foretell security vulnerabilities from library dependencies and source code evolution**|Carlos E. Budde et.al.|[2411.11202](http://arxiv.org/abs/2411.11202)|null|
 |**2024-11-18**|**SoliDiffy: AST Differencing for Solidity Smart Contracts**|Mojtaba Eshghie et.al.|[2411.07718](http://arxiv.org/abs/2411.07718)|**[link](https://github.com/mojtaba-eshghie/SoliDiffy)**|
