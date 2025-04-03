@@ -1,4 +1,4 @@
-## Updated on 2025.04.01
+## Updated on 2025.04.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -12,13 +12,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-27**|**Reasoning Under Threat: Symbolic and Neural Techniques for Cybersecurity Verification**|Sarah Veronica et.al.|[2503.22755](http://arxiv.org/abs/2503.22755)|null|
 |**2025-03-23**|**Enhancing Software Vulnerability Detection Using Code Property Graphs and Convolutional Neural Networks**|Amanpreet Singh Saimbhi et.al.|[2503.18175](http://arxiv.org/abs/2503.18175)|null|
 |**2025-03-22**|**Reasoning with LLMs for Zero-Shot Vulnerability Detection**|Arastoo Zibaeirad et.al.|[2503.17885](http://arxiv.org/abs/2503.17885)|**[link](https://github.com/erroristotle/vulnsage)**|
 |**2025-03-19**|**UntrustVul: An Automated Approach for Identifying Untrustworthy Alerts in Vulnerability Detection Models**|Lam Nguyen Tung et.al.|[2503.14852](http://arxiv.org/abs/2503.14852)|null|
 |**2025-03-16**|**Computing Modes of Instability of Parameterized Nonlinear Systems for Vulnerability Assessment**|Jinghan Wang et.al.|[2503.12298](http://arxiv.org/abs/2503.12298)|null|
 |**2025-03-13**|**HALURust: Exploiting Hallucinations of Large Language Models to Detect Vulnerabilities in Rust**|Yu Luo et.al.|[2503.10793](http://arxiv.org/abs/2503.10793)|null|
 |**2025-03-13**|**Vulnerability Detection: From Formal Verification to Large Language Models and Hybrid Approaches: A Comprehensive Overview**|Norbert Tihanyi et.al.|[2503.10784](http://arxiv.org/abs/2503.10784)|null|
-|**2025-03-12**|**CASTLE: Benchmarking Dataset for Static Code Analyzers and LLMs towards CWE Detection**|Richard A. Dubniczky et.al.|[2503.09433](http://arxiv.org/abs/2503.09433)|null|
+|**2025-03-31**|**CASTLE: Benchmarking Dataset for Static Code Analyzers and LLMs towards CWE Detection**|Richard A. Dubniczky et.al.|[2503.09433](http://arxiv.org/abs/2503.09433)|**[link](https://github.com/CASTLE-Benchmark/CASTLE-Benchmark)**|
 |**2025-03-10**|**Evaluating LLaMA 3.2 for Software Vulnerability Detection**|José Gonçalves et.al.|[2503.07770](http://arxiv.org/abs/2503.07770)|null|
 |**2025-03-10**|**Control Flow-Augmented Decompiler based on Large Language Model**|Peipei Liu et.al.|[2503.07215](http://arxiv.org/abs/2503.07215)|null|
 |**2025-03-09**|**R+R: Security Vulnerability Dataset Quality Is Critical**|Anurag Swarnim Yadav et.al.|[2503.06387](http://arxiv.org/abs/2503.06387)|**[link](https://github.com/Anurag-Swarnim-Yadav/DatasetQuality)**|
@@ -85,7 +86,7 @@
 |**2024-10-08**|**StagedVulBERT: Multi-Granular Vulnerability Detection with a Novel Pre-trained Code Model**|Yuan Jiang et.al.|[2410.05766](http://arxiv.org/abs/2410.05766)|null|
 |**2024-10-04**|**Vulnerability Detection via Topological Analysis of Attention Maps**|Pavel Snopov et.al.|[2410.03470](http://arxiv.org/abs/2410.03470)|**[link](https://github.com/Snopoff/Vulnerability-Detection-via-Topological-Analysis-of-Attention-Maps)**|
 
-<p align=right>(<a href=#updated-on-20250401>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250403>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
