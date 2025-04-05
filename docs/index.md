@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2025.04.03
+## Updated on 2025.04.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## VulDetect
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-03**|**Responsible Development of Offensive AI**|Ryan Marinelli et.al.|[2504.02701](http://arxiv.org/abs/2504.02701)|null|
 |**2025-03-27**|**Reasoning Under Threat: Symbolic and Neural Techniques for Cybersecurity Verification**|Sarah Veronica et.al.|[2503.22755](http://arxiv.org/abs/2503.22755)|null|
 |**2025-03-23**|**Enhancing Software Vulnerability Detection Using Code Property Graphs and Convolutional Neural Networks**|Amanpreet Singh Saimbhi et.al.|[2503.18175](http://arxiv.org/abs/2503.18175)|null|
 |**2025-03-22**|**Reasoning with LLMs for Zero-Shot Vulnerability Detection**|Arastoo Zibaeirad et.al.|[2503.17885](http://arxiv.org/abs/2503.17885)|**[link](https://github.com/erroristotle/vulnsage)**|
