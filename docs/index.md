@@ -2,14 +2,18 @@
 layout: default
 ---
 
-## Updated on 2025.04.07
+## Updated on 2025.04.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## VulDetect
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-04-03**|**Responsible Development of Offensive AI**|Ryan Marinelli et.al.|[2504.02701](http://arxiv.org/abs/2504.02701)|null|
+|**2025-04-07**|**Enhancing Smart Contract Vulnerability Detection in DApps Leveraging Fine-Tuned LLM**|Jiuyang Bu et.al.|[2504.05006](http://arxiv.org/abs/2504.05006)|null|
+|**2025-04-07**|**SmartBugBert: BERT-Enhanced Vulnerability Detection for Smart Contract Bytecode**|Jiuyang Bu et.al.|[2504.05002](http://arxiv.org/abs/2504.05002)|null|
+|**2025-04-07**|**R2Vul: Learning to Reason about Software Vulnerabilities with Reinforcement Learning and Structured Reasoning Distillation**|Martin Weyssow et.al.|[2504.04699](http://arxiv.org/abs/2504.04699)|null|
+|**2025-04-07**|**Generative Large Language Model usage in Smart Contract Vulnerability Detection**|Peter Ince et.al.|[2504.04685](http://arxiv.org/abs/2504.04685)|null|
+|**2025-04-05**|**Responsible Development of Offensive AI**|Ryan Marinelli et.al.|[2504.02701](http://arxiv.org/abs/2504.02701)|null|
 |**2025-03-27**|**Reasoning Under Threat: Symbolic and Neural Techniques for Cybersecurity Verification**|Sarah Veronica et.al.|[2503.22755](http://arxiv.org/abs/2503.22755)|null|
 |**2025-03-23**|**Enhancing Software Vulnerability Detection Using Code Property Graphs and Convolutional Neural Networks**|Amanpreet Singh Saimbhi et.al.|[2503.18175](http://arxiv.org/abs/2503.18175)|null|
 |**2025-03-22**|**Reasoning with LLMs for Zero-Shot Vulnerability Detection**|Arastoo Zibaeirad et.al.|[2503.17885](http://arxiv.org/abs/2503.17885)|**[link](https://github.com/erroristotle/vulnsage)**|
