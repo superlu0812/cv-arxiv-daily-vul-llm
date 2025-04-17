@@ -28,3 +28,5 @@ keywords:
         filters: ["Code Vulnerability Detection data LLM"]
     "VulDetect":
         filters: ["Vulnerability Detect"]
+    "FirmwareVulDetect":
+        filters: ["firmware vulnerability detect"]
