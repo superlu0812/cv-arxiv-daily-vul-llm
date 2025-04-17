@@ -1,4 +1,4 @@
-## Updated on 2025.04.15
+## Updated on 2025.04.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -16,7 +16,7 @@
 |**2025-04-07**|**How Do Solidity Versions Affect Vulnerability Detection Tools? An Empirical Study**|Gerardo Iuliano et.al.|[2504.05515](http://arxiv.org/abs/2504.05515)|null|
 |**2025-04-07**|**Enhancing Smart Contract Vulnerability Detection in DApps Leveraging Fine-Tuned LLM**|Jiuyang Bu et.al.|[2504.05006](http://arxiv.org/abs/2504.05006)|null|
 |**2025-04-07**|**SmartBugBert: BERT-Enhanced Vulnerability Detection for Smart Contract Bytecode**|Jiuyang Bu et.al.|[2504.05002](http://arxiv.org/abs/2504.05002)|null|
-|**2025-04-07**|**R2Vul: Learning to Reason about Software Vulnerabilities with Reinforcement Learning and Structured Reasoning Distillation**|Martin Weyssow et.al.|[2504.04699](http://arxiv.org/abs/2504.04699)|null|
+|**2025-04-07**|**R2Vul: Learning to Reason about Software Vulnerabilities with Reinforcement Learning and Structured Reasoning Distillation**|Martin Weyssow et.al.|[2504.04699](http://arxiv.org/abs/2504.04699)|**[link](https://github.com/martin-wey/R2Vul)**|
 |**2025-04-07**|**Generative Large Language Model usage in Smart Contract Vulnerability Detection**|Peter Ince et.al.|[2504.04685](http://arxiv.org/abs/2504.04685)|null|
 |**2025-04-05**|**Responsible Development of Offensive AI**|Ryan Marinelli et.al.|[2504.02701](http://arxiv.org/abs/2504.02701)|**[link](https://github.com/rymarinelli/wormy_ai)**|
 |**2025-03-27**|**Reasoning Under Threat: Symbolic and Neural Techniques for Cybersecurity Verification**|Sarah Veronica et.al.|[2503.22755](http://arxiv.org/abs/2503.22755)|null|
@@ -93,7 +93,7 @@
 |**2024-10-08**|**StagedVulBERT: Multi-Granular Vulnerability Detection with a Novel Pre-trained Code Model**|Yuan Jiang et.al.|[2410.05766](http://arxiv.org/abs/2410.05766)|null|
 |**2024-10-04**|**Vulnerability Detection via Topological Analysis of Attention Maps**|Pavel Snopov et.al.|[2410.03470](http://arxiv.org/abs/2410.03470)|**[link](https://github.com/Snopoff/Vulnerability-Detection-via-Topological-Analysis-of-Attention-Maps)**|
 
-<p align=right>(<a href=#updated-on-20250415>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250417>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
