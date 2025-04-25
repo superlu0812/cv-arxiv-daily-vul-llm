@@ -1,4 +1,4 @@
-## Updated on 2025.04.23
+## Updated on 2025.04.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -12,6 +12,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-23**|**Context-Enhanced Vulnerability Detection Based on Large Language Model**|Yixin Yang et.al.|[2504.16877](http://arxiv.org/abs/2504.16877)|null|
+|**2025-04-23**|**Case Study: Fine-tuning Small Language Models for Accurate and Private CWE Detection in Python Code**|Md. Azizul Hakim Bappy et.al.|[2504.16584](http://arxiv.org/abs/2504.16584)|null|
+|**2025-04-23**|**Automated Static Vulnerability Detection via a Holistic Neuro-symbolic Approach**|Penghui Li et.al.|[2504.16057](http://arxiv.org/abs/2504.16057)|null|
+|**2025-04-22**|**Automated Vulnerability Injection in Solidity Smart Contracts: A Mutation-Based Approach for Benchmark Development**|Gerardo Iuliano et.al.|[2504.15948](http://arxiv.org/abs/2504.15948)|null|
+|**2025-04-23**|**A Study on Mixup-Inspired Augmentation Methods for Software Vulnerability Detection**|Seyed Shayan Daneshvar et.al.|[2504.15632](http://arxiv.org/abs/2504.15632)|null|
 |**2025-04-21**|**C2RUST-BENCH: A Minimized, Representative Dataset for C-to-Rust Transpilation Evaluation**|Melih Sirlanci et.al.|[2504.15144](http://arxiv.org/abs/2504.15144)|null|
 |**2025-04-18**|**Trace Gadgets: Minimizing Code Context for Machine Learning-Based Vulnerability Prediction**|Felix Mächtle et.al.|[2504.13676](http://arxiv.org/abs/2504.13676)|null|
 |**2025-04-18**|**Everything You Wanted to Know About LLM-based Vulnerability Detection But Were Afraid to Ask**|Yue Li et.al.|[2504.13474](http://arxiv.org/abs/2504.13474)|null|
@@ -99,7 +104,7 @@
 |**2024-10-08**|**StagedVulBERT: Multi-Granular Vulnerability Detection with a Novel Pre-trained Code Model**|Yuan Jiang et.al.|[2410.05766](http://arxiv.org/abs/2410.05766)|null|
 |**2024-10-04**|**Vulnerability Detection via Topological Analysis of Attention Maps**|Pavel Snopov et.al.|[2410.03470](http://arxiv.org/abs/2410.03470)|**[link](https://github.com/Snopoff/Vulnerability-Detection-via-Topological-Analysis-of-Attention-Maps)**|
 
-<p align=right>(<a href=#updated-on-20250423>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250425>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
