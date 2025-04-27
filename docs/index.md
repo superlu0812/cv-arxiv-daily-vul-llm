@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.04.25
+## Updated on 2025.04.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## VulDetect
@@ -11,6 +11,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-04-23**|**Context-Enhanced Vulnerability Detection Based on Large Language Model**|Yixin Yang et.al.|[2504.16877](http://arxiv.org/abs/2504.16877)|null|
 |**2025-04-23**|**Case Study: Fine-tuning Small Language Models for Accurate and Private CWE Detection in Python Code**|Md. Azizul Hakim Bappy et.al.|[2504.16584](http://arxiv.org/abs/2504.16584)|null|
+|**2025-04-24**|**AI-Based Vulnerability Analysis of NFT Smart Contracts**|Xin Wang et.al.|[2504.16113](http://arxiv.org/abs/2504.16113)|null|
 |**2025-04-23**|**Automated Static Vulnerability Detection via a Holistic Neuro-symbolic Approach**|Penghui Li et.al.|[2504.16057](http://arxiv.org/abs/2504.16057)|null|
 |**2025-04-22**|**Automated Vulnerability Injection in Solidity Smart Contracts: A Mutation-Based Approach for Benchmark Development**|Gerardo Iuliano et.al.|[2504.15948](http://arxiv.org/abs/2504.15948)|null|
 |**2025-04-23**|**A Study on Mixup-Inspired Augmentation Methods for Software Vulnerability Detection**|Seyed Shayan Daneshvar et.al.|[2504.15632](http://arxiv.org/abs/2504.15632)|null|
