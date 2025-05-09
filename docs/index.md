@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2025.05.07
+## Updated on 2025.05.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## VulDetect
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-02**|**Program Semantic Inequivalence Game with Large Language Models**|Antonio Valerio Miceli-Barone et.al.|[2505.03818](http://arxiv.org/abs/2505.03818)|null|
+|**2025-05-06**|**Directed Greybox Fuzzing via Large Language Model**|Hanxiang Xu et.al.|[2505.03425](http://arxiv.org/abs/2505.03425)|null|
 |**2025-05-01**|**Enhancing the Cloud Security through Topic Modelling**|Sabbir M. Saleh et.al.|[2505.01463](http://arxiv.org/abs/2505.01463)|null|
 |**2025-05-02**|**Poster: Machine Learning for Vulnerability Detection as Target Oracle in Automated Fuzz Driver Generation**|Gianpietro Castiglione et.al.|[2505.01123](http://arxiv.org/abs/2505.01123)|null|
 |**2025-04-29**|**DejaVuzz: Disclosing Transient Execution Bugs with Dynamic Swappable Memory and Differential Information Flow Tracking assisted Processor Fuzzing**|Jinyan Xu et.al.|[2504.20934](http://arxiv.org/abs/2504.20934)|null|
