@@ -22,11 +22,10 @@ md_wechat_path: './docs/wechat.md'
 
 # keywords to search
 keywords:
-    "LLMVulDetect": 
-        filters: ["Code Vulnerability Detection LLM", "Vulnerability Detection LLM"]
-    "LLMVulData":
-        filters: ["Code Vulnerability Detection data LLM"]
-    "VulDetect":
-        filters: ["Vulnerability Detect"]
-    "FirmwareVulDetect":
-        filters: ["firmware vulnerability detect"]
+    "LLM-Malware-Detect": 
+        filters: ["Code Malicious Detection LLM", "Malicious Detection LLM"]
+    "LLM-Malware-Data":
+        filters: ["Code Malicious Detection data LLM"]
+    "LLM-Agent-Malware-Detect":
+        filters: ["Threat Hunting LLM","Threat Hunting Agent LLM"]
+    
