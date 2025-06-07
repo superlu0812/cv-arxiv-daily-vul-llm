@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.05
+## Updated on 2025.06.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## VulDetect
